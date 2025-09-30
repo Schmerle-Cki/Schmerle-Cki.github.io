@@ -161,7 +161,7 @@ awards:
     summary: |
       Recognized for contributions to scaling laws in deep learning.
 ---
-# Greetings👋 I'm Niqi Liu.
+# Greetings👋 
 
 I am a third-year Master's student in Media Technology at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Professor [Yong-Jin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). Previously, I earned my Bachelor's degree at the Department of Computer Science and Technology, Tsinghua University.
 
