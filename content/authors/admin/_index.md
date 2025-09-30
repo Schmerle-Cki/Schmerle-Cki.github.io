@@ -64,7 +64,7 @@ education:
   - area: MS Computer Science
     institution: Tsinghua University
     date_start: 2022-09-01
-    date_end: 2025-06-31
+    date_end: 2025-06-30
     summary: |
       Specialized in affective computing.
 
@@ -72,7 +72,7 @@ education:
   - area: BS Computer Science
     institution: Tsinghua University
     date_start: 2018-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-30
     # summary: |
     #   GPA: 3.75/4.0
 
@@ -118,11 +118,11 @@ skills:
       - name: Dance
         description: ''
         percent: 90
-        icon: cat
+        icon: human-female-dance
       - name: Working out
         description: ''
         percent: 90
-        icon: cat
+        icon: weight-lifter
       - name: Cat
         description: ''
         percent: 70
