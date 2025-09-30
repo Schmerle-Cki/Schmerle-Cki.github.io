@@ -118,11 +118,11 @@ skills:
       - name: Dance
         description: ''
         percent: 90
-        icon: human-female-dance
+        icon: cat
       - name: Working out
         description: ''
         percent: 90
-        icon: weight-lifter
+        icon: cat
       - name: Cat
         description: ''
         percent: 70
